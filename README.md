@@ -1,6 +1,6 @@
 # Funções úteis // Colors
 
-# **OS ARQUIVOS ESTÃO DESATUALIZADOS! **
+# **OS ARQUIVOS ESTÃO DESATUALIZADOS!**
 
 Como usar o pacote?
 
